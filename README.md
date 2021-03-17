@@ -1,1 +1,1 @@
-"# study-redux" 
+"# study-redux"
